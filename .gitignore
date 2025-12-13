@@ -11,5 +11,6 @@ STL/
 *.png
 *.jpg
 *.txt
-*.pdf
 *.zip
+*.pdf
+*.stl
