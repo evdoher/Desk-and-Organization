@@ -10,3 +10,6 @@ STL/
 */*.3mf
 */*/*.3mf
 *.zip
+*.txt
+*.jpg
+*.png
