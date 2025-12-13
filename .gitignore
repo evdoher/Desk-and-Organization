@@ -1,1 +1,11 @@
+# Folder types
 !PRINT-ONLY/
+OTS/
+*/OTS/
+STL/
+*/STL/
+
+# Filetypes
+*.3mf
+*/*.3mf
+*/*/*.3mf
